@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/when-does-the",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a when-does-the",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/when-does-the.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/en/gold-market-open-in-mexico/"
+    },
+    "homepage": "https://isproto.com/en/gold-market-open-in-mexico/"
+}
